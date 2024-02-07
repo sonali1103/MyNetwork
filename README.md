@@ -13,7 +13,7 @@ Connect to your mongodb and add info in .env
  `npm run dev`
 
  Run the Express server only
-# `npm run server`
+`npm run server`
 
  Run the React client only
 `npm run client`
